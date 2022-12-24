@@ -1,0 +1,11 @@
+using - log4j2
+Differenece between log4j1 and log4j2
+
+Logging is recording every data
+Provides the ability to trace the error
+
+Community support: Log4j 1.x is not actively maintained, whereas Log4j 2 has an active community where questions are answered, features are added and bugs are fixed.
+
+Automatically reload its configuration upon modification without losing log events while reconfiguring.
+
+Log4j 2 is garbage-free
